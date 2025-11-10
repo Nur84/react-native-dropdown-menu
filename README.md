@@ -22,7 +22,9 @@ Currently supported on **Android** only.
 
 ```bash
 npm install @lhacenmed/react-native-dropdown-menu
-# or
+````
+### or
+```bash
 yarn add @lhacenmed/react-native-dropdown-menu
 ````
 
