@@ -64,10 +64,6 @@ export default function Index() {
       <Stack.Screen
         options={{
           title: "Home",
-          headerTintColor: "#eeeeeeff",
-          headerStyle: {
-            backgroundColor: "#000",
-          },
           headerRight: () => (
             <DropdownMenu
               backgroundColor="#161618"
